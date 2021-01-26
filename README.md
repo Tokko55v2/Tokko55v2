@@ -8,8 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/michaelkro6)
 
 ### Some stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tokko55v2)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokko55v2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Tokko55v2)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokko55v2)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My programming stats:
 <!--START_SECTION:waka-->

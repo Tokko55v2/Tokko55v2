@@ -1,4 +1,5 @@
-### Hi 👋 I am Michael
+### Hi 👋
+![Alt Text](https://gist.github.com/stevengeorgeharris/c99d23025de85e1b1b2b391d5b043ed4#file-hello-there-gif)
 
 Here are some ideas to get you started:
 

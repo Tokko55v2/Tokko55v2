@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 
 ### My programming stats:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 48 Contributions in the Year 2021
+> 🏆 54 Contributions in the Year 2021
  > 
-> 📦 13.0 kB Used in Github's Storage 
+> 📦 13.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 

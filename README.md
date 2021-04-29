@@ -13,27 +13,27 @@ Here are some ideas to get you started:
 
 ### My programming stats:
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 100 Contributions in the Year 2021
+> 🏆 106 Contributions in the Year 2021
  > 
-> 📦 15.1 kB Used in Github's Storage 
+> 📦 15.4 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 5 Public Repositories 
+> 📜 6 Public Repositories 
  > 
 > 🔑 4 Private Repositories  
  > 
 **I Mostly Code in Java** 
 
 ```text
-Java                     2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-TeX                      2 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
-TypeScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-Swift                    1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+Java                     2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+TeX                      2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+Swift                    2 repos             ███████░░░░░░░░░░░░░░░░░░   28.57% 
+TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
 

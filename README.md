@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a [Reddit-Client](https://github.com/Tokko55v2/reddit-client)
+- 🔭 I’m currently working on [YARC](https://github.com/Tokko55v2/reddit-client) and [FLANO](https://github.com/flanoapp/flano)
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects with green impact.
 - 📫 How to reach me: [Twitter](https://twitter.com/michaelkro6)

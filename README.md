@@ -11,10 +11,6 @@ Here are some ideas to get you started:
 ### Some stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tokko55v2&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tokko55v2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### My programming stats:
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **🐱 My Github Data** 
 
 > 🏆 123 Contributions in the Year 2021
@@ -36,11 +32,5 @@ Swift                    2 repos             ███████░░░░�
 TypeScript               1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/Tokko55v2/Tokko55v2/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->

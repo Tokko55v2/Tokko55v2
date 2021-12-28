@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [ArtKoti](https://github.com/ArtKoti)
+- 🔭 I’m currently working on [ArtKoti](https://github.com/ArtKoti) / Website: [artkoti.fi](https://artkoti.fi/)
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on open source projects with green impact.
 - 📫 How to reach me: [Twitter](https://twitter.com/michaelkro6)
